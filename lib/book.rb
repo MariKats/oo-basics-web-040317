@@ -1,4 +1,4 @@
-class Book 
+class Book
 	# attr_accessor :author, :page_count, :genre
 	# attr_reader :title
 
@@ -14,7 +14,7 @@ class Book
 		@author = author
 	end
 
-	def author 
+	def author
 		@author
 	end
 
@@ -40,4 +40,3 @@ class Book
 
 
 end
-
